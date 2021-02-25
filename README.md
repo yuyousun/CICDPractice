@@ -1,4 +1,3 @@
-i
 
 # Jenkins Pipeline Sample Jenkins Script
 
